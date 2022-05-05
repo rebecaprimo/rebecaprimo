@@ -1,4 +1,4 @@
-Oie, sou Rebeca! 😃
+Oie, sou Rebeca! 😊
 
 !--https://www.youtube.com/playlist?list=PLbnAsJ6zliduRkxrkVjB_acpNt9jN68w9-->
 
