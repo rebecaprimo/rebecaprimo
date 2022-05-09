@@ -17,8 +17,6 @@
 📚 inglês
 </div>
 
-https://www.youtube.com/playlist?list=PLbnAsJ6zliduRkxrkVjB_acpNt9jN68w9
-
 <!--
 **rebecaprimo/rebecaprimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
