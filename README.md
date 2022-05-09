@@ -1,4 +1,4 @@
-<h1><div><b> oie, sou Rebeca! 😊 <b></div></h1>
+<h1><div><b> oie, sou Rebeca! ☯️ <b></div></h1>
 
 <img src="https://user-images.githubusercontent.com/99405743/167513816-b908de6f-7d87-4c91-8a5e-d4b87c0ff286.png"/>
 
