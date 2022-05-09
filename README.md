@@ -19,8 +19,6 @@
 📂 versionamento com Git
 </div>
  
-  <h3>em construção!</h3>
-
 <!--
 **rebecaprimo/rebecaprimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
