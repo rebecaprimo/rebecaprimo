@@ -1,18 +1,20 @@
+<div><b> oie, sou Rebeca! 😊 <b></div>
+
 <img src="https://user-images.githubusercontent.com/99405743/167513816-b908de6f-7d87-4c91-8a5e-d4b87c0ff286.png"/>
 
-<div> oie, sou Rebeca! 😊 </div>
- <div>
-📌 São Paulo, SP <br>
-📌 19 anos <br>
+<div>
+🇧🇷 São Paulo, SP <br>
+🧠 19 anos <br>
 📌 estudando Sistemas para Internet - Senac SP <br>
-📌 presente na Apple Developer Academy 22/23
+📌 Apple Developer Academy 22/23
 </div>
-me desenvolvendo...
+<div>
+me desenvolvendo... <br>
 
-📚 dev mobile iOS (Swift + UIKit)
-📚 javaScript
-📚 inglês 
-
+📱 dev mobile iOS (Swift + UIKit) <br>
+📚 javaScript <br>
+📚 inglês
+</div>
 
 https://www.youtube.com/playlist?list=PLbnAsJ6zliduRkxrkVjB_acpNt9jN68w9
 
