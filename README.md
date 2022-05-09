@@ -15,7 +15,7 @@
 <h2>me desenvolvendo... <br></h2>
 📱 dev mobile iOS (Swift + UIKit) <br>
 💻 javaScript <br>
-🌎 inglês
+🌎 inglês <br>
 📂 versionamento com Git
 </div>
 
