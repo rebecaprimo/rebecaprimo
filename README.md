@@ -16,6 +16,7 @@
 📱 dev mobile iOS (Swift + UIKit) <br>
 💻 javaScript <br>
 🌎 inglês
+📂 versionamento com Git
 </div>
 
 <!--
