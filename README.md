@@ -1,5 +1,4 @@
 <h1><div><b> oie, sou Rebeca! ☯️ <b></div></h1>
-  <h3>⚠️ em construção!</h3>
 
 <img src="https://user-images.githubusercontent.com/99405743/167513816-b908de6f-7d87-4c91-8a5e-d4b87c0ff286.png"/>
 
@@ -19,6 +18,8 @@
 🌎 inglês <br>
 📂 versionamento com Git
 </div>
+ 
+  <h3>em construção!</h3>
 
 <!--
 **rebecaprimo/rebecaprimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
