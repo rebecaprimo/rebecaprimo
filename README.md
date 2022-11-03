@@ -4,7 +4,7 @@
 
 <div>
 🇧🇷 São Paulo, SP <br>
-🧠 19 anos <br>
+🧠 20 anos <br>
 📌 estudando Sistemas para Internet - Senac SP <br>
 🍎 Apple Developer Academy 22/23
 </div>
@@ -14,7 +14,6 @@
 <div>
 <h2>me desenvolvendo... <br></h2>
 📱 dev mobile iOS (Swift + UIKit) <br>
-💻 JavaScript <br>
 🌎 inglês <br>
 📂 versionamento com Git
 </div>
