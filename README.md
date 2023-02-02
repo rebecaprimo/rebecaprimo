@@ -13,7 +13,7 @@
   
 <div>
 <h2>me desenvolvendo... <br></h2>
-📱 dev mobile iOS (Swift + UIKit) <br>
+📱 dev mobile iOS (UIKit + SwiftUI) <br>
 🌎 inglês <br>
 📂 versionamento com Git
 </div>
