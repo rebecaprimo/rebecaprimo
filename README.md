@@ -20,7 +20,7 @@
 
 <div>
 <img src="https://worldvectorlogo.com/logo/available-on-the-app-store-1"><br>
-<a href="https://apps.apple.com/br/app/%C3%A9-o-tom/id6443547149">É o Tom App</a>
+<a href="https://apps.apple.com/br/app/%C3%A9-o-tom/id6443547149">É o Tom App</a><br>
 <a href="https://apps.apple.com/br/app/tero/id1660085213?l=en">Recicle com Tero App</a>
 </div>
  
