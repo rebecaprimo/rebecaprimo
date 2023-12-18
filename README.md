@@ -1,7 +1,7 @@
 <h1>Olá! 👋</h1>
 <br>
 
-<h3>Sou formada em Sistemas para Internet, participei da Apple Developer Academy e no momento estou me desenvolvendo para ingressar na área de dados. 😁</h3>
+Sou formada em Sistemas para Internet, participei da Apple Developer Academy e no momento estou me desenvolvendo para ingressar na área de dados. 😁
 
 
  
