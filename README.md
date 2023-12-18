@@ -11,7 +11,7 @@ Sou formada em Sistemas para Internet, participei da Apple Developer Academy e n
 
 ## 🌱 Conteúdos relevantes
  ✧ [Introduzindo banco de dados com Harry Potter](https://medium.com/@rebecarodriguesprimo036/introduzindo-banco-de-dados-com-harry-potter-1e3aed745bc7)<br>
- ✧ [Aprofundando banco de dados com Harry Potter #2](https://medium.com/@rebecarodriguesprimo036/aprofundando-banco-de-dados-com-harry-potter-2-d89728281ebc)
+ ✧ [Aprofundando banco de dados com Harry Potter #2](https://medium.com/@rebecarodriguesprimo036/aprofundando-banco-de-dados-com-harry-potter-2-d89728281ebc)<br>
  ✧ Em produção...
 
 ## 📫 Entre em contato
