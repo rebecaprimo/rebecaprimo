@@ -6,7 +6,7 @@
 
 👩🏼‍🎓 Formada em Sistemas para Internet<br>🍎 Apple Developer Academy 22/23<br>📚 Me desenvolvendo na área de dados<br>🇧🇷 São Paulo, SP
 
-## 🔧 Tecnologias e ferramentas        
+## 🔧 Tecnologias e ferramentas em aprendizado        
  ✧ Python<br>
  ✧ SQL e banco de dados<br>
  ✧ Estatística<br>
@@ -22,13 +22,18 @@
 <a href="https://www.linkedin.com/in/rebecarprimo/" target="">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn">
 </a>
-<a href="" target="">
+<a href="mailto:rebecarodriguesprimo036@gmail.com" target="">
   <img loading="lazy" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width="50" height="50" alt="LinkedIn">
 </a>
 <a href="https://medium.com/@rebecarodriguesprimo036" target="">
   <img loading="lazy" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" width="50" height="50" alt="LinkedIn">
 </a>
 
+<div>
+<a href="https://github.com/rebecaprimo">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 <!--
 **rebecaprimo/rebecaprimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
