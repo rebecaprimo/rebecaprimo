@@ -4,15 +4,19 @@
 Sou formada em Sistemas para Internet, participei da Apple Developer Academy e no momento estou me desenvolvendo para ingressar na área de dados. 😁
 
 ## 🔧 Tecnologias e ferramentas
+ ✧ Python
+ ✧ SQL e banco de dados
+ ✧ 
 
 ## 🌱 Conteúdos relevantes
 
-- [Projeto 1]
-- [Projeto 2]
-- ...
+ ✧ [Projeto 1]
+ ✧ [Projeto 2]
+ ✧ 
 
 ## 📫 Entre em contato
-- [LinkedIn](https://www.linkedin.com/in/rebecarprimo/)
+ ✧ [LinkedIn](https://www.linkedin.com/in/rebecarprimo/)
+ ✧ [E-mail](https://criarmeulink.com.br/u/1702926425)
 
 
  
