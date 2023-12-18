@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/28/1a/af/281aaf73c5b37d8be3b0ed20caade1c9.jpg"  />
+<img src="https://media.licdn.com/dms/image/D4D16AQF_DO-SZLCkgA/profile-displaybackgroundimage-shrink_350_1400/0/1700859665604?e=1708560000&v=beta&t=cdLqzMqPSOtUeA5Sq62cXKl-yJT34FxeSj1rjthwoEo" />
 
 # Olá, me chamo Rebeca! 👋
 
