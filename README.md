@@ -1,6 +1,6 @@
 
 # Olá, me chamo Rebeca! 👋
-<img loading="lazy" src="https://img.freepik.com/vetores-gratis/vetor-de-estilo-de-doodle-de-computador_53876-169138.jpg?w=1380&t=st=1702927274~exp=1702927874~hmac=ecdb913b2abc996298a225c2196d56b66b3b343720be96f666d87620f4dc3fa1" width="50" height="50" />
+<img src="https://img.freepik.com/vetores-gratis/vetor-de-estilo-de-doodle-de-computador_53876-169138.jpg?w=1380&t=st=1702927274~exp=1702927874~hmac=ecdb913b2abc996298a225c2196d56b66b3b343720be96f666d87620f4dc3fa1" width="100" height="100" />
 
 👩🏼‍🎓 Formada em Sistemas para Internet<br>🍎 Apple Developer Academy 22/23<br>📚 Me desenvolvendo na área de dados<br>🇧🇷 São Paulo, SP
 
