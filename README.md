@@ -1,8 +1,6 @@
 
 # Olá, me chamo Rebeca! 👋
-<!--
-<img src="https://img.freepik.com/vetores-gratis/vetor-de-estilo-de-doodle-de-computador_53876-169138.jpg?w=1380&t=st=1702927274~exp=1702927874~hmac=ecdb913b2abc996298a225c2196d56b66b3b343720be96f666d87620f4dc3fa1">
--->
+<img loading="lazy" src="https://img.freepik.com/vetores-gratis/vetor-de-estilo-de-doodle-de-computador_53876-169138.jpg?w=1380&t=st=1702927274~exp=1702927874~hmac=ecdb913b2abc996298a225c2196d56b66b3b343720be96f666d87620f4dc3fa1" width="50" height="50" />
 
 👩🏼‍🎓 Formada em Sistemas para Internet<br>🍎 Apple Developer Academy 22/23<br>📚 Me desenvolvendo na área de dados<br>🇧🇷 São Paulo, SP
 
@@ -29,11 +27,6 @@
   <img loading="lazy" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" width="50" height="50" alt="LinkedIn">
 </a>
 
-<div>
-<a href="https://github.com/rebecaprimo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 <!--
 **rebecaprimo/rebecaprimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
