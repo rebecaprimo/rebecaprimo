@@ -1,4 +1,3 @@
-<div>
     <img src="https://img.freepik.com/vetores-gratis/vetor-de-estilo-de-doodle-de-computador_53876-169138.jpg?w=1380&t=st=1702927274~exp=1702927874~hmac=ecdb913b2abc996298a225c2196d56b66b3b343720be96f666d87620f4dc3fa1" alt="Descrição da imagem">
     <h1>Olá! 👋</h1>
 
@@ -26,7 +25,6 @@
     ✧ [LinkedIn](https://www.linkedin.com/in/rebecarprimo/)<br>
     ✧ [E-mail](https://criarmeulink.com.br/u/1702926425)<br>
     ✧ [Medium](https://medium.com/@rebecarodriguesprimo036) 
-</div>
 
 <!--
 **rebecaprimo/rebecaprimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
