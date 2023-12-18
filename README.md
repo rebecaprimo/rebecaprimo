@@ -17,6 +17,9 @@
  ✧ Em produção...
 
 ## 📫 Entre em contato
+<a href="https://www.linkedin.com/in/rebecarprimo/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn">
+</a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />[LinkedIn](https://www.linkedin.com/in/rebecarprimo/)<br>
  ✧ [E-mail](https://criarmeulink.com.br/u/1702926425)<br>
  ✧ [Medium](https://medium.com/@rebecarodriguesprimo036) 
