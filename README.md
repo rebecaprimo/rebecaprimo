@@ -5,7 +5,7 @@
 👩🏼‍🎓 Formada em Sistemas para Internet<br>🍎 Apple Developer Academy 22/23<br>📚 Me desenvolvendo na área de dados<br>🇧🇷 São Paulo, SP
 
 ## 🔧 Tecnologias e ferramentas
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
  ✧ Python<br>
  ✧ SQL e banco de dados<br>
  ✧ Estatística<br>
