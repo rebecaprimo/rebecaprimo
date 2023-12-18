@@ -19,16 +19,15 @@
  ✧ Em produção...
 
 ## 📫 Entre em contato
-<a href="https://www.linkedin.com/in/rebecarprimo/" target="_blank">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/rebecarprimo/" target="">
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn">
 </a>
-<a href="" target="_blank">
+<a href="" target="">
   <img loading="lazy" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width="50" height="50" alt="LinkedIn">
 </a>
-<a href="https://medium.com/@rebecarodriguesprimo036" target="_blank">
+<a href="https://medium.com/@rebecarodriguesprimo036" target="">
   <img loading="lazy" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" width="50" height="50" alt="LinkedIn">
 </a>
-
 
 <!--
 **rebecaprimo/rebecaprimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
