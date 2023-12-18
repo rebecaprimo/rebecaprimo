@@ -1,3 +1,9 @@
+<style>
+        .rounded-image {
+            max-width: 300px; /* Defina a largura máxima desejada */
+            border-radius: 20px; /* Defina o raio dos cantos desejado */
+        }
+    </style>
 # Olá! 👋
 <img src="https://img.freepik.com/vetores-gratis/vetor-de-estilo-de-doodle-de-computador_53876-169138.jpg?w=1380&t=st=1702927274~exp=1702927874~hmac=ecdb913b2abc996298a225c2196d56b66b3b343720be96f666d87620f4dc3fa1 alt="Imagem" style="width: 300px; border-radius: 20px;">
 
