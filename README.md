@@ -1,6 +1,8 @@
 
 # Olá, me chamo Rebeca! 👋
+<!--
 <img src="https://img.freepik.com/vetores-gratis/vetor-de-estilo-de-doodle-de-computador_53876-169138.jpg?w=1380&t=st=1702927274~exp=1702927874~hmac=ecdb913b2abc996298a225c2196d56b66b3b343720be96f666d87620f4dc3fa1">
+-->
 
 👩🏼‍🎓 Formada em Sistemas para Internet<br>🍎 Apple Developer Academy 22/23<br>📚 Me desenvolvendo na área de dados<br>🇧🇷 São Paulo, SP
 
@@ -18,11 +20,14 @@
 
 ## 📫 Entre em contato
 <a href="https://www.linkedin.com/in/rebecarprimo/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn">
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn">
 </a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />[LinkedIn](https://www.linkedin.com/in/rebecarprimo/)<br>
  ✧ [E-mail](https://criarmeulink.com.br/u/1702926425)<br>
- ✧ [Medium](https://medium.com/@rebecarodriguesprimo036) 
+ ✧ [Medium]() 
+
+<a href="https://medium.com/@rebecarodriguesprimo036" target="_blank">
+  <img loading="lazy" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" width="40" height="40" alt="LinkedIn">
+</a>
 
 <!--
 **rebecaprimo/rebecaprimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
