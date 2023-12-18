@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/28/1a/af/281aaf73c5b37d8be3b0ed20caade1c9.jpg" width="600" height="500" />
+<img src="https://i.pinimg.com/originals/28/1a/af/281aaf73c5b37d8be3b0ed20caade1c9.jpg"  />
 
 # Olá, me chamo Rebeca! 👋
 
