@@ -6,7 +6,8 @@ Sou formada em Sistemas para Internet, participei da Apple Developer Academy e n
  ✧ Python<br>
  ✧ SQL e banco de dados<br>
  ✧ Estatística<br>
- ✧ Power BI
+ ✧ Power BI<br>
+ ✧ Machine learning
 
 ## 🌱 Conteúdos relevantes
  ✧ [Introduzindo banco de dados com Harry Potter](https://medium.com/@rebecarodriguesprimo036/introduzindo-banco-de-dados-com-harry-potter-1e3aed745bc7)<br>
