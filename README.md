@@ -1,29 +1,23 @@
-    <h1>Olá! 👋</h1>
+<h1>Olá! 👋</h1>
 
-    Sou formada em Sistemas para Internet, participei da Apple Developer Academy e no momento estou me desenvolvendo para ingressar na área de dados. 😁
+Sou formada em Sistemas para Internet, participei da Apple Developer Academy e no momento estou me desenvolvendo para ingressar na área de dados. 😁
 
-    <!-- Restante do seu conteúdo HTML -->
+## 🔧 Tecnologias e ferramentas
+ ✧ Python<br>
+ ✧ SQL e banco de dados<br>
+ ✧ Estatística<br>
+ ✧ Power BI<br>
+ ✧ Machine learning
 
-    ## 🔧 Tecnologias e ferramentas
-    ✧ Python<br>
-    ✧ SQL e banco de dados<br>
-    ✧ Estatística<br>
-    ✧ Power BI<br>
-    ✧ Machine learning
+## 🌱 Conteúdos relevantes
+ ✧ [Introduzindo banco de dados com Harry Potter](https://medium.com/@rebecarodriguesprimo036/introduzindo-banco-de-dados-com-harry-potter-1e3aed745bc7)<br>
+ ✧ [Aprofundando banco de dados com Harry Potter #2](https://medium.com/@rebecarodriguesprimo036/aprofundando-banco-de-dados-com-harry-potter-2-d89728281ebc)
+ ✧ Em produção...
 
-    <!-- Adicione mais conteúdo conforme necessário -->
-
-    ## 🌱 Conteúdos relevantes
-    ✧ [Introduzindo banco de dados com Harry Potter](https://medium.com/@rebecarodriguesprimo036/introduzindo-banco-de-dados-com-harry-potter-1e3aed745bc7)<br>
-    ✧ [Aprofundando banco de dados com Harry Potter #2](https://medium.com/@rebecarodriguesprimo036/aprofundando-banco-de-dados-com-harry-potter-2-d89728281ebc)
-    ✧ Em produção...
-
-    <!-- Adicione mais conteúdo conforme necessário -->
-
-    ## 📫 Entre em contato
-    ✧ [LinkedIn](https://www.linkedin.com/in/rebecarprimo/)<br>
-    ✧ [E-mail](https://criarmeulink.com.br/u/1702926425)<br>
-    ✧ [Medium](https://medium.com/@rebecarodriguesprimo036) 
+## 📫 Entre em contato
+ ✧ [LinkedIn](https://www.linkedin.com/in/rebecarprimo/)<br>
+ ✧ [E-mail](https://criarmeulink.com.br/u/1702926425)<br>
+ ✧ [Medium](https://medium.com/@rebecarodriguesprimo036) 
 
 <!--
 **rebecaprimo/rebecaprimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
