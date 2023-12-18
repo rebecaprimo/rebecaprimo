@@ -1,4 +1,5 @@
-<h1>Olá! 👋</h1>
+# Olá! 👋
+<img src="[/assets/img/arquivo.gif](https://img.freepik.com/vetores-gratis/vetor-de-estilo-de-doodle-de-computador_53876-169138.jpg?w=1380&t=st=1702927274~exp=1702927874~hmac=ecdb913b2abc996298a225c2196d56b66b3b343720be96f666d87620f4dc3fa1)">
 
 Sou formada em Sistemas para Internet, participei da Apple Developer Academy e no momento estou me desenvolvendo para ingressar na área de dados. 😁
 
