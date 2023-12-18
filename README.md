@@ -1,6 +1,6 @@
 
 # Olá, me chamo Rebeca! 👋
-<img src="https://i.pinimg.com/originals/28/1a/af/281aaf73c5b37d8be3b0ed20caade1c9.jpg" width="100" height="100" />
+<img src="https://i.pinimg.com/originals/28/1a/af/281aaf73c5b37d8be3b0ed20caade1c9.jpg"  />
 
 👩🏼‍🎓 Formada em Sistemas para Internet<br>🍎 Apple Developer Academy 22/23<br>📚 Me desenvolvendo na área de dados<br>🇧🇷 São Paulo, SP
 
