@@ -14,6 +14,7 @@
 ## 🌱 Conteúdos relevantes / Relevant content
  ✧ [Introduzindo banco de dados com Harry Potter](https://medium.com/@rebecarodriguesprimo036/introduzindo-banco-de-dados-com-harry-potter-1e3aed745bc7)<br>
  ✧ [Aprofundando banco de dados com Harry Potter #2](https://medium.com/@rebecarodriguesprimo036/aprofundando-banco-de-dados-com-harry-potter-2-d89728281ebc)<br>
+ ✧ [Análise Exploratória de Dados - EDA (projeto EBAC)](https://colab.research.google.com/drive/1Zr81uINjpo7USMFxkNiyPeu8WFaOf3k2)
  ✧ Em produção...
 
 ## 📫 Entre em contato / Contact us
