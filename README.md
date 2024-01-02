@@ -1,22 +1,22 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQF_DO-SZLCkgA/profile-displaybackgroundimage-shrink_350_1400/0/1700859665604?e=1708560000&v=beta&t=cdLqzMqPSOtUeA5Sq62cXKl-yJT34FxeSj1rjthwoEo" />
 
-# Olá, me chamo Rebeca! 👋
+# Olá, me chamo Rebeca! / Hi, I'm Rebeca! 👋
 
-👩🏼‍🎓 Formada em Sistemas para Internet<br>🍎 Apple Developer Academy 22/23<br>📚 Me desenvolvendo na área de dados<br>🇧🇷 São Paulo, SP
+👩🏼‍🎓 Formada em Sistemas para Internet / Graduated in Internet Systems<br>🍎 Apple Developer Academy 22/23<br>📚 Me desenvolvendo na área de dados / Developing my skills in data science<br>🇧🇷 São Paulo, SP
 
-## 🔧 Tecnologias e ferramentas em aprendizado        
+## 🔧 Tecnologias e ferramentas em aprendizado / Technologies and tools in learning      
  ✧ Python<br>
- ✧ SQL e banco de dados<br>
- ✧ Estatística<br>
+ ✧ SQL e banco de dados / SQL and databases<br>
+ ✧ Estatística / Statistics<br>
  ✧ Power BI<br>
  ✧ Machine learning
 
-## 🌱 Conteúdos relevantes
+## 🌱 Conteúdos relevantes / Relevant content
  ✧ [Introduzindo banco de dados com Harry Potter](https://medium.com/@rebecarodriguesprimo036/introduzindo-banco-de-dados-com-harry-potter-1e3aed745bc7)<br>
  ✧ [Aprofundando banco de dados com Harry Potter #2](https://medium.com/@rebecarodriguesprimo036/aprofundando-banco-de-dados-com-harry-potter-2-d89728281ebc)<br>
  ✧ Em produção...
 
-## 📫 Entre em contato
+## 📫 Entre em contato / Contact us
 <a href="https://www.linkedin.com/in/rebecarprimo/" target="">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn">
 </a>
