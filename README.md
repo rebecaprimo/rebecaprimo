@@ -9,7 +9,6 @@
  ✧ SQL e banco de dados / SQL and databases<br>
  ✧ Estatística / Statistics<br>
  ✧ Power BI<br>
- ✧ Machine learning
 
 ## 🌱 Conteúdos relevantes / Relevant content
  ✧ [Introduzindo banco de dados com Harry Potter](https://medium.com/@rebecarodriguesprimo036/introduzindo-banco-de-dados-com-harry-potter-1e3aed745bc7)<br>
